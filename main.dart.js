@@ -58593,8 +58593,8 @@ return A.V(A.e4.prototype.gu.call(s,s),s.e,s.b,s.c,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B
 A.D8.prototype={
 P(a,b){return B.D6}}
 A.CI.prototype={
-P(a,b){var s=null,r=A.ab3("assets/img/p1.png"),q=A.eF("Say hi to your selfcare App",s,s,s,B.GY,B.ax,s),p=A.d2(24)
-return A.WW(B.aR,A.WU(A.Oo(A.a([r,B.Fs,new A.dC(B.aq,q,s),B.tM,B.DI,B.k3,A.hy(s,A.fA(B.Z,A.eF("Let's Get Started",s,s,s,B.Ha,s,s),s,new A.ej(B.k,s,s,p,s,s,B.aN),70,B.yu,s,s),B.a8,!1,s,s,s,s,s,s,s,s,s,s,s,new A.Tj(b),s,s,s,s,s,s)],t.p),B.qW,B.cI),!0))}}
+P(a,b){var s=null,r=A.ab3("assets/img/p1.webp"),q=A.eF("Say hi to your selfcare App",s,s,s,B.GY,B.ax,s),p=A.d2(20)
+return A.WW(B.aR,A.WU(A.Oo(A.a([r,B.Fs,new A.dC(B.aq,q,s),B.tM,B.DI,B.k3,A.hy(s,A.fA(B.Z,A.eF("Let's Get Started",s,s,s,B.Ha,s,s),s,new A.ej(B.k,s,s,p,s,s,B.aN),60,B.yu,s,s),B.a8,!1,s,s,s,s,s,s,s,s,s,s,s,new A.Tj(b),s,s,s,s,s,s)],t.p),B.qW,B.cI),!0))}}
 A.Tj.prototype={
 $0(){var s=A.lE(new A.Ti(),null,t.z)
 A.k0(this.a).fl(s)},
@@ -58603,7 +58603,7 @@ A.Ti.prototype={
 $1(a){return B.yJ},
 $S:352}
 A.o_.prototype={
-P(a,b){var s,r=null,q=A.eF("Welcome to Self-care App",r,r,r,B.kd,B.ax,r),p=A.ab3("assets/img/l1.png"),o=A.d2(20)
+P(a,b){var s,r=null,q=A.eF("Welcome to Peace",r,r,r,B.kd,B.ax,r),p=A.ab3("assets/img/l1.webp"),o=A.d2(20)
 o=A.hy(r,A.fA(B.Z,A.eF("Login",r,r,r,B.ke,B.ax,r),r,new A.ej(B.aR,r,r,o,r,r,B.aN),60,B.aq,r,r),B.a8,!1,r,r,r,r,r,r,r,r,r,r,r,new A.Rz(b),r,r,r,r,r,r)
 s=A.d2(20)
 return A.WW(B.k,A.WU(A.Oo(A.a([new A.dC(B.aq,q,r),p,B.k3,o,B.tM,A.hy(r,A.fA(B.Z,A.eF("Signup",r,r,r,B.kc,B.ax,r),r,new A.ej(B.cq,r,r,s,r,r,B.aN),60,B.aq,r,r),B.a8,!1,r,r,r,r,r,r,r,r,r,r,r,new A.RA(b),r,r,r,r,r,r)],t.p),B.fp,B.cI),!0))}}
