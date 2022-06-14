@@ -1,6 +1,6 @@
 # Peace
 
-Mental Health Care
+
 
 ![play_store_feature_graphic](https://user-images.githubusercontent.com/87913082/173658010-6286dbe6-c957-4e55-b17e-708f3c1b0cab.png)
 
