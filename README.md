@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-This project is Mental Health Tracker application.
+This project is Mental Health Care application.
 
 A few resources to get you started if this is your first Flutter project:
 
