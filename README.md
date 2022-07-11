@@ -1,4 +1,4 @@
-# peace
+# peace :   [Try this app on browser](https://peace.pages.dev)
 
 
 ![play_store_feature_graphic](https://user-images.githubusercontent.com/87913082/178222480-ddcbded0-8103-469d-b0dc-78fe905fda21.png)
