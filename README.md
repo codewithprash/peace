@@ -1,10 +1,12 @@
 # peace
 
-A new Flutter project.
+
+![play_store_feature_graphic](https://user-images.githubusercontent.com/87913082/178222480-ddcbded0-8103-469d-b0dc-78fe905fda21.png)
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is Mental Health Care application.
 
 A few resources to get you started if this is your first Flutter project:
 
